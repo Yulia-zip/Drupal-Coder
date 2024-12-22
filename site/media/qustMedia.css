@@ -1,0 +1,7 @@
+@media (min-width: 700px) {
+	.faq {
+		max-width: 800px;
+		margin: 0 auto;
+		padding-bottom: 60px;
+	}
+}

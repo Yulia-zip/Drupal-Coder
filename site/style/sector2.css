@@ -1,0 +1,35 @@
+.sector2 {
+	padding: 10px;
+}
+.sector2 h2 {
+	letter-spacing: -1px;
+}
+.sec2gg {
+	opacity: 0.7;
+	color: rgb(5, 12, 51);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 22px;
+	letter-spacing: 0%;
+	text-align: left;
+}
+.info {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-template-rows: repeat(4, 200px);
+}
+.spec {
+	margin-top: 35px;
+	margin-left: 15px;
+	color: rgb(5, 12, 51);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 22px;
+	letter-spacing: 0%;
+	text-align: left;
+}
+.spec p {
+	opacity: 0.7;
+}

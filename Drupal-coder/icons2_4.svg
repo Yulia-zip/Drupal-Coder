@@ -1,0 +1,23 @@
+<svg width="81.000000" height="81.000000" viewBox="0 0 81 81" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip5_281">
+			<rect id="icons2/4" rx="0.000000" width="80.000000" height="80.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip5_281)">
+		<path id="Rectangle" d="M42 51L22.13 51L15 51L15 34L22.13 34L42 34" stroke="#050C33" stroke-opacity="1.000000" stroke-width="2.000000" stroke-dasharray="3 4"/>
+		<path id="Rectangle" d="M65.25 52L65.25 63Q65.25 65.58 63.41 67.41Q61.58 69.25 59 69.25L21.32 69.25L11 69.25Q8.41 69.25 6.58 67.41Q4.75 65.58 4.75 63L4.75 21Q4.75 18.41 6.58 16.58Q8.41 14.75 11 14.75L21.32 14.75L59 14.75Q61.58 14.75 63.41 16.58Q65.25 18.41 65.25 21L65.25 33L62.75 33L62.75 21Q62.75 17.25 59 17.25L21.32 17.25L11 17.25Q7.25 17.25 7.25 21L7.25 63Q7.25 66.75 11 66.75L21.32 66.75L59 66.75Q62.75 66.75 62.75 63L62.75 52L65.25 52Z" fill="#F14D34" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Rectangle" d="M40 48L40 37C40 34.23 42.23 32 45 32L76 32C78.76 32 81 34.23 81 37L81 48C81 50.76 78.76 53 76 53L45 53C42.23 53 40 50.76 40 48ZM42.5 48L42.5 37Q42.5 35.75 43.12 35.12Q43.75 34.5 45 34.5L50.83 34.5L76 34.5Q77.25 34.5 77.87 35.12Q78.5 35.75 78.5 37L78.5 48Q78.5 49.25 77.87 49.87Q77.25 50.5 76 50.5L45 50.5Q44.48 50.5 44.04 50.31Q43.59 50.13 43.23 49.76Q42.86 49.4 42.68 48.95Q42.5 48.51 42.5 48Z" fill="#F14D34" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M48 40C49.48 40 65.28 40 73 40" stroke="#F14D34" stroke-opacity="1.000000" stroke-width="2.500000"/>
+		<path id="Vector" d="M12 27C13.48 27 29.28 27 37 27" stroke="#F14D34" stroke-opacity="1.000000" stroke-width="2.500000"/>
+		<path id="Vector" d="M12 58C12.94 58 23.06 58 28 58" stroke="#F14D34" stroke-opacity="1.000000" stroke-width="2.500000"/>
+		<path id="Vector" d="M12 62C13.18 62 25.82 62 32 62" stroke="#F14D34" stroke-opacity="1.000000" stroke-width="2.500000"/>
+		<path id="Vector" d="M24 42C24.47 42 29.53 42 32 42" stroke="#050C33" stroke-opacity="1.000000" stroke-width="2.500000"/>
+		<path id="Vector" d="M28 38C28 38.47 28 43.53 28 46" stroke="#050C33" stroke-opacity="1.000000" stroke-width="2.500000"/>
+		<path id="Vector" d="M6 21C9.43 21 46.09 21 64 21" stroke="#F14D34" stroke-opacity="1.000000" stroke-width="2.500000"/>
+		<path id="Vector" d="M48 45C48.94 45 59.06 45 64 45" stroke="#F14D34" stroke-opacity="1.000000" stroke-width="2.500000"/>
+	</g>
+</svg>

@@ -1,0 +1,27 @@
+@media (min-width: 700px) {
+	#textinphoto p {
+		color: rgb(255, 255, 255);
+	}
+
+
+	.casesbig h2 {
+		font-size: 30px;
+	}
+	.casesbig img {
+		border-radius: 6px;
+	}
+	.casesbig {
+		text-align: center;
+	}
+	.casesbig button {
+		font-size: 18px;
+		width: 200px;
+	}
+}
+@media (min-width: 1300px) {
+	.ceiss {
+		grid-template-columns: repeat(2, 1fr);
+		max-width: 1200px;
+		margin: 0 auto;
+	}
+}

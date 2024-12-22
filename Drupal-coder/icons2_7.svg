@@ -1,0 +1,26 @@
+<svg width="81.000000" height="81.000000" viewBox="0 0 81 81" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip5_161">
+			<rect id="icons2/7" rx="0.000000" width="80.000000" height="80.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip5_161)">
+		<path id="Rectangle" d="M52 69.25L10 69.25Q7.41 69.25 5.58 67.41Q3.75 65.58 3.75 63L3.75 24L3.75 16Q3.75 13.41 5.58 11.58Q7.41 9.75 10 9.75L70 9.75Q72.58 9.75 74.41 11.58Q76.25 13.41 76.25 16L76.25 49.5L73.75 49.5L73.75 16Q73.75 12.25 70 12.25L10 12.25Q6.25 12.25 6.25 16L6.25 24L6.25 63Q6.25 64.55 7.34 65.65Q8.44 66.75 10 66.75L52 66.75L52 69.25ZM5 22.75L40 22.75L74.5 22.75L74.5 25.25L40 25.25L5 25.25L5 22.75Z" fill="#F14D34" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Union" d="M77.83 68.94L72.28 63.4L72.54 62.66Q72.91 61.59 72.96 60.44Q73.02 59.3 72.77 58.18Q72.51 57.04 71.94 56.01Q71.36 54.95 70.49 54.08Q69.6 53.18 68.5 52.59Q67.44 52.02 66.26 51.77Q65.11 51.53 63.93 51.61Q62.76 51.7 61.67 52.12L61.22 50.95L62.11 50.07L67.83 55.79L66.5 61.5L60.79 62.83L55.07 57.11L55.95 56.22L57.12 56.67Q56.7 57.76 56.61 58.93Q56.53 60.11 56.77 61.26Q57.02 62.44 57.59 63.5Q58.18 64.6 59.08 65.49Q59.95 66.36 61.01 66.94Q62.04 67.51 63.18 67.77Q64.3 68.02 65.44 67.96Q66.59 67.91 67.66 67.54L68.4 67.28L73.94 72.83L72.18 74.59L67.19 69.6L68.07 68.72L68.48 69.9Q67.07 70.38 65.57 70.46Q64.08 70.54 62.62 70.2Q61.14 69.87 59.81 69.13Q58.43 68.38 57.31 67.26Q56.16 66.11 55.39 64.68Q54.65 63.31 54.33 61.78Q54.01 60.28 54.12 58.75Q54.24 57.21 54.78 55.78L55.47 53.97L62.06 60.57L61.18 61.45L60.9 60.24L65.18 59.24L65.46 60.46L64.24 60.18L65.24 55.9L66.45 56.18L65.57 57.06L58.97 50.47L60.78 49.78Q62.21 49.24 63.75 49.12Q65.28 49.01 66.78 49.33Q68.31 49.65 69.68 50.39Q71.11 51.16 72.26 52.31Q73.38 53.43 74.13 54.81Q74.87 56.14 75.2 57.62Q75.54 59.08 75.46 60.57Q75.38 62.07 74.9 63.48L73.72 63.07L74.6 62.19L79.59 67.18L77.83 68.94Z" fill="#050C33" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M11 18L14 18" stroke="#F14D34" stroke-opacity="1.000000" stroke-width="2.500000"/>
+		<path id="Vector" d="M17 18L20 18" stroke="#F14D34" stroke-opacity="1.000000" stroke-width="2.500000"/>
+		<path id="Vector" d="M23 18L26 18" stroke="#F14D34" stroke-opacity="1.000000" stroke-width="2.500000"/>
+		<path id="Vector 2" d="M16 32L16 32M16 32L16 32" stroke="#F14D34" stroke-opacity="1.000000" stroke-width="2.500000"/>
+		<circle id="Ellipse" cx="16.000000" cy="38.000000" r="3.000000" stroke="#F14D34" stroke-opacity="1.000000" stroke-width="2.500000"/>
+		<path id="Vector 2.1" d="M26 32L26 32M26 32L26 32" stroke="#F14D34" stroke-opacity="1.000000" stroke-width="2.500000"/>
+		<circle id="Ellipse" cx="26.000000" cy="50.000000" r="3.000000" stroke="#F14D34" stroke-opacity="1.000000" stroke-width="2.500000"/>
+		<path id="Vector 2.2" d="M36 32L36 32M36 32L36 32" stroke="#F14D34" stroke-opacity="1.000000" stroke-width="2.500000"/>
+		<circle id="Ellipse" cx="36.000000" cy="42.000000" r="3.000000" stroke="#F14D34" stroke-opacity="1.000000" stroke-width="2.500000"/>
+		<rect id="Rectangle 2" x="48.000000" y="32.000000" rx="1.000000" width="19.000000" height="7.000000" stroke="#F14D34" stroke-opacity="1.000000" stroke-width="2.500000"/>
+		<path id="Vector 3" d="M48 44L67 44" stroke="#F14D34" stroke-opacity="1.000000" stroke-width="2.500000"/>
+		<path id="Vector 3.1" d="M48 48L57 48" stroke="#F14D34" stroke-opacity="1.000000" stroke-width="2.500000"/>
+	</g>
+</svg>

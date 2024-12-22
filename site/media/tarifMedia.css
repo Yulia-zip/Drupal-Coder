@@ -1,0 +1,12 @@
+@media (min-width: 900px) {
+	.tarcomp {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		gap: 20px;
+	}
+	.tarif {
+		flex: 1 1 100px;
+		max-width: 300px;
+	}
+}

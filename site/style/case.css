@@ -1,0 +1,86 @@
+
+.casesbig {
+	margin-top: 50px;
+	padding: 10px;
+}
+.casesbig h2 {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 20px;
+}
+.casesbig {
+	text-align: center; 
+}
+.ceiss {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); 
+	grid-gap: 20px; 
+}
+.cases {
+	margin: 0; 
+	position: relative;
+	border-radius: 10px; 
+	overflow: hidden;
+}
+.cases img {
+	width: 100%;
+	height: auto;
+	border-radius: 10px 10px 0 0; 
+}
+.cases h4 {
+	color: rgb(5, 12, 51);
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 22px;
+	text-align: left;
+	padding: 10px; 
+}
+.doptext {
+	opacity: 0.5;
+	color: rgb(5, 12, 51);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 22px;
+	letter-spacing: 0%;
+	text-align: left;
+	padding: 0 10px; 
+}
+.date {
+	opacity: 0.5;
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 300;
+	line-height: 15px;
+	letter-spacing: 0%;
+	text-align: left;
+	margin-top: -10px; 
+	padding: 0 10px; 
+}
+#textinphoto {
+	position: relative;
+}
+#textinphoto p {
+	position: absolute;
+	font-weight: 700;
+	bottom: 10px;
+	left: 10px;
+	color: white;
+	padding: 5px;
+}
+.casesbig button {
+	margin-top: 40px;
+	margin-bottom: 30px;
+	border-radius: 5px;
+	opacity: 0.6;
+	color: rgb(5, 12, 51);
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 12px;
+	letter-spacing: 6%;
+	width: 150px;
+	padding: 10px; 
+	cursor: pointer;
+}
