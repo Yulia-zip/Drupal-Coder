@@ -1,0 +1,175 @@
+footer {
+	background: linear-gradient(232.84deg, rgba(255, 255, 255, 0.28) -108.942%, rgba(255, 255, 255, 0) 72.111%),
+		rgb(4, 6, 19);
+}
+.contacs {
+	padding: 15px;
+	text-align: center;
+	/* background-image: url(../Drupal-coder/logoDD.svg);
+	background-size: 50%;
+	background-repeat: no-repeat; */
+}
+.contacs h2 {
+	display: flex;
+	justify-content: center;
+	color: rgb(255, 255, 255);
+	font-family: Montserrat;
+	font-size: 20px;
+}
+
+.contacs p {
+	opacity: 0.7;
+	color: rgb(255, 255, 255);
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 22px;
+	letter-spacing: 0%;
+	text-align: left;
+}
+.cont {
+	text-align: left;
+}
+.sv {
+	display: flex;
+}
+.sv img {
+	width: 20px;
+	margin-right: 10px;
+}
+.cont .numer {
+	color: rgb(255, 255, 255);
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight: 700;
+}
+.cont .email {
+	color: rgb(255, 255, 255);
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight: 700;
+	text-decoration-line: underline;
+}
+
+.forms {
+	margin-top: 20px;
+}
+.wrap {
+	column-gap: 5px;
+	margin-bottom: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+input {
+	padding: 12px;
+	border: 0.5px rgb(179, 178, 180) solid;
+	border-radius: 5px;
+	background-color: transparent;
+	color: rgb(255, 255, 255);
+	font-family: Montserrat;
+	font-size: 13px;
+	font-weight: 500;
+	line-height: 16px;
+	letter-spacing: 0%;
+	text-align: left;
+	width: 100%;
+	transition: box-shadow 0.3s ease;
+}
+.wrap input:focus {
+	outline: none;
+	box-shadow: 0 0 15px rgb(241, 77, 52, 0.7);
+}
+.agree {
+	color: rgb(255, 255, 255);
+	font-family: Montserrat;
+	font-size: 10px;
+	font-weight: 400;
+	line-height: 15px;
+	letter-spacing: 0%;
+	text-align: left;
+}
+
+.wrap label b {
+	color: rgb(241, 77, 52);
+	font-weight: 100;
+}
+
+#agreement {
+	display: none;
+}
+
+#butagree {
+	display: flex;
+	align-items: center;
+}
+
+#butagree label {
+	cursor: pointer;
+	display: inline-block;
+	padding: 10px;
+	border-radius: 4px;
+	transition: box-shadow 0.3s ease;
+}
+
+#butagree input + label:before {
+	content: '';
+	display: inline-block;
+	width: 18px;
+	height: 18px;
+	border: 0.5px rgb(179, 178, 180) solid;
+	background-color: transparent;
+	margin-right: 5px;
+	transition: transform 0.3s, box-shadow 0.3s;
+	font-size: 18px;
+}
+
+#butagree input:checked + label:before {
+	content: '\2714';
+	color: rgb(241, 77, 52);
+	transform: rotate(360deg);
+	box-shadow: 0 0 15px rgb(241, 77, 52, 0.7);
+}
+
+.forms button {
+	border: none;
+	color: white;
+	background-color: rgb(241, 77, 52);
+	padding: 12px 22px;
+	border-radius: 8px;
+	width: calc(100% - 30px);
+	margin: 15px;
+	box-sizing: border-box;
+}
+/* .g-recaptcha {
+	margin: 15px;
+} */
+svg {
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
+
+footer p {
+	color: rgb(255, 255, 255);
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 17px;
+	letter-spacing: 0%;
+	text-align: left;
+}
+.footerend {
+	position: relative;
+	overflow: hidden;
+}
+
+.footerend::before {
+	content: '';
+	background-image: url(../Drupal-coder/logoDD.svg);
+	background-size: 50%;
+	background-position: right bottom;
+	position: absolute;
+	bottom: -25%;
+	right: 0;
+	width: 50%;
+	height: 50%;
+}
