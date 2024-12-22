@@ -1,0 +1,35 @@
+<svg width="1452.281250" height="922.338867" viewBox="0 0 1452.28 922.339" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_94_279_dd" x="0.000000" y="0.000000" width="1452.281250" height="922.338867" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="57.1978"/>
+			<feGaussianBlur stdDeviation="7.38036"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0.05098 0 0 0 0 0.1451 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+	</defs>
+	<g filter="url(#filter_94_279_dd)">
+		<path id="Vector" d="M585.17 230.78L776.36 230.78L776.36 421.83L585.17 421.83L585.17 230.78Z" fill="#F9E050" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M303.6 703.18L494.8 703.18L494.8 842.9L303.6 842.9L303.6 703.18Z" fill="#F4F464" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M444.38 562.5L635.58 562.5L635.58 753.55L444.38 753.55L444.38 562.5ZM22.14 562.5L162.92 562.5L162.92 703.18L22.14 703.18L22.14 562.5ZM303.6 422.02L444.38 422.02L444.38 562.69L303.6 562.69L303.6 422.02Z" fill="#F4F464" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M585.17 90.48L776.36 90.48L776.36 281.53L585.17 281.53L585.17 90.48Z" fill="#F9B038" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M534.84 0L776.26 0L776.26 140.67L534.84 140.67L534.84 0Z" fill="#F6842D" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M162.92 0L303.7 0L303.7 140.67L162.92 140.67L162.92 0Z" fill="#F9E050" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M585.17 652.8L776.36 652.8L776.36 842.9L585.17 842.9L585.17 652.8Z" fill="#F6842D" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M303.6 140.76L444.38 140.76L444.38 281.44L303.6 281.44L303.6 140.76Z" fill="#F4F464" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M725.09 512.12L916.29 512.12L916.29 703.18L725.09 703.18L725.09 512.12Z" fill="#F4AC2B" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M725.09 371.74L916.29 371.74L916.29 562.79L725.09 562.79L725.09 371.74Z" fill="#F6842D" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M725.09 230.78L916.29 230.78L916.29 421.83L725.09 421.83L725.09 230.78Z" fill="#F4AC2B" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M725.09 90.48L916.29 90.48L916.29 281.53L725.09 281.53L725.09 90.48Z" fill="#F6842D" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M726.04 842.9L726.04 703.18L865.87 703.18L865.87 140.67L725.09 140.67L725.09 0L1102.43 0C1159.14 0 1208.22 6.46 1249.5 19.48C1290.79 32.31 1324.65 54.93 1351.28 87.25C1377.92 119.57 1397.89 163.29 1410.83 218.42C1423.77 273.36 1430.14 343.22 1430.14 428.2C1430.14 513.93 1424.15 583.51 1412.07 636.74C1399.89 690.92 1380.87 733.02 1354.99 762.96C1329.35 794 1294.46 816.05 1255.4 825.89C1214.97 837.29 1165.99 843 1108.63 843L865.78 843L726.04 842.9ZM1012.65 727.6L1103.68 727.6C1135.06 727.6 1162.28 723.99 1184.91 716.77C1208.56 710.12 1228.63 694.4 1240.75 673.05C1255.4 651.18 1265.86 620.48 1272.32 580.85C1279.66 541.21 1283.27 488.65 1283.27 423.06C1283.27 357.67 1279.47 304.73 1272.24 264.33C1265.86 224.69 1255.4 193.61 1240.85 170.99C1227.4 150.1 1207.29 134.36 1183.77 126.32C1160.93 119 1134.31 115.39 1103.59 115.39L1012.65 115.39L1012.65 727.6Z" fill="#F14D34" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M585.17 562.5L725.95 562.5L725.95 703.18L585.17 703.18L585.17 562.5Z" fill="#F9E050" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M444.38 0L585.17 0L585.17 140.67L444.38 140.67L444.38 0Z" fill="#F9B038" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M444.38 703.18L585.17 703.18L585.17 842.9L444.38 842.9L444.38 703.18Z" fill="#F9E050" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
