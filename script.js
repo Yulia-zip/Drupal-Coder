@@ -1,13 +1,8 @@
-const menuToggle = document.querySelector('.menu-toggle')
-const menu = document.querySelector('.menu')
-
-menuToggle.addEventListener('click', () => {
-	menu.style.display = menu.style.display === 'block' ? 'none' : 'block'
-})
 document.addEventListener('DOMContentLoaded', function () {
 	const menuToggle = document.querySelector('.menu-toggle')
 	const menu = document.querySelector('.menu')
 
+	// Обработчик события для переключения меню
 	menuToggle.addEventListener('click', function () {
 		// Переключаем класс 'active' для меню
 		menu.classList.toggle('active')
@@ -15,8 +10,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
 	// Закрытие меню при клике вне его
 	document.addEventListener('click', function (event) {
+		// Проверяем, был ли клик вне меню и кнопки
 		if (!menu.contains(event.target) && !menuToggle.contains(event.target)) {
-			menu.classList.remove('active')
+			menu.classList.remove('active') // Убираем класс 'active', чтобы скрыть меню
 		}
 	})
 })

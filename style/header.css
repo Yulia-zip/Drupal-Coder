@@ -148,12 +148,12 @@ header {
 	background-color: rgb(0, 1, 15);
 	color: white;
 	position: fixed;
-	bottom: 2px;
+	bottom: 0;
 	left: 0;
 	right: 0;
 	z-index: 1000;
 }
-.menu {
+/* .menu {
 	display: none;
 	position: fixed;
 	bottom: 0;
@@ -162,8 +162,24 @@ header {
 	background-color: rgb(0, 1, 15);
 	z-index: 1000;
 }
-.menu.active {
+nav.menu.active {
 	display: block;
+} */
+.menu {
+	visibility: hidden;
+	opacity: 0;
+	transition: visibility 0s, opacity 0.3s ease;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: rgb(0, 1, 15);
+	z-index: 1000;
+}
+
+nav.menu.active {
+	visibility: visible;
+	opacity: 1;
 }
 
 nav {
