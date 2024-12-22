@@ -153,7 +153,7 @@ header {
 	right: 0;
 	z-index: 1000;
 }
-/* .menu {
+.menu {
 	display: none;
 	position: fixed;
 	bottom: 0;
@@ -164,22 +164,6 @@ header {
 }
 nav.menu.active {
 	display: block;
-} */
-.menu {
-	visibility: hidden;
-	opacity: 0;
-	transition: visibility 0s, opacity 0.3s ease;
-	position: fixed;
-	bottom: 0;
-	left: 0;
-	right: 0;
-	background-color: rgb(0, 1, 15);
-	z-index: 1000;
-}
-
-nav.menu.active {
-	visibility: visible;
-	opacity: 1;
 }
 
 nav {
@@ -202,7 +186,7 @@ nav a {
 }
 
 .menu-toggle {
-	background-color: rgb(0, 1, 15);
+	background-color:rgb(241, 77, 52);
 	border: none;
 	cursor: pointer;
 	display: flex;
